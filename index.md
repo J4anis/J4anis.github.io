@@ -6,3 +6,5 @@ Saitama is the main protagonist of the series and is known as the titular One-Pu
 * humble
 * tactful
 * insightful
+## Saitama once said
+> I became so powerful, no one is able to beat me.
